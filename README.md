@@ -1,1 +1,1 @@
-# Seamen-s-Club-AI-Hub
+# web admin panel
